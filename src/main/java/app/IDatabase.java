@@ -25,3 +25,4 @@ public interface IDatabase {
 	public Iterator selectFromTable(SQLTerm[] arrSQLTerms, String[] strarrOperators) throws DBAppException;
 	
 }
+
